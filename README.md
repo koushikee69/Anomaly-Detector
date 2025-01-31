@@ -58,11 +58,11 @@ The tool leverages the `scapy` library for packet parsing and analysis.
 1. Place your PCAP file in the same directory as the script or provide its path.
 2. Run the script using the following command:
    ```bash
-   python script_name.py <path_to_pcap_file>
+   python project.py <path_to_pcap_file>
    ```
    Example:
    ```bash
-   python script_name.py example_traffic.pcap
+   python project.py example.pcap
    ```
 
 3. The script will generate a CSV file named `outputReport.csv` in the same directory.
