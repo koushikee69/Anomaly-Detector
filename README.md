@@ -46,7 +46,7 @@ The tool leverages the `scapy` library for packet parsing and analysis.
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/network-traffic-analysis.git
+   git clone https://github.com/koushikee69/Anomaly-Detector.git
    cd network-traffic-analysis
    ```
 
